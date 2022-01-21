@@ -1,4 +1,4 @@
-# Structure and position-aware graph neural network for airway labeling
+# Structure and Position-Aware Graph Neural Network for Airway Labeling
 
 ## News
 
